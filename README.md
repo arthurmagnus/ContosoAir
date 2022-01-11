@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/arthurdevops29/ContosoAir/_apis/build/status/arthurmagnus.ContosoAir?branchName=master)](https://dev.azure.com/arthurdevops29/ContosoAir/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
